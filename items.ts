@@ -1,4 +1,6 @@
 
-let item = 'laptop';
+// let item = 'laptop';
 // item = false;
-console.log(item);
+// let product = ['book', 'pen', 'pencil'];
+// console.log(item);
+// console.log(product);

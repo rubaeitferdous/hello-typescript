@@ -1,0 +1,10 @@
+"use strict";
+let district = 'Natore';
+const stock = 100;
+// district = 'Bramhonbaria';
+// district = 44;
+// const officer:string = 440;
+let input = "idk";
+input = 22;
+const isAvailable = false;
+console.log(district);

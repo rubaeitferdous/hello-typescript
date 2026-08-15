@@ -1,4 +1,6 @@
 "use strict";
-let items = 'laptop';
-// items = false;
-console.log(items);
+let item = 'laptop';
+// item = false;
+let product = ['book', 'pen', 'pencil'];
+console.log(item);
+console.log(product);
